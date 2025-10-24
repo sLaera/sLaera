@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👨‍💻 Sante - Portfolio
 
-<!--
-**sLaera/sLaera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Master’s graduate in Computer Engineering** specialization in **Graphics and multimedia**, with also 5 years of experience in web development across different companies.  
+My work and studies spans **full-stack web development**, **3D graphics and 3D processing**, **VR/AR applications**, and **Machine learning**, with a particular interest for interactive applications.
 
-Here are some ideas to get you started:
+Below you can find a selection of my **university** and **personal projects**, showcasing various tools, simulations, and research I have developed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|  |  |
+|:--:|:--:|
+| [![3D-scanning-web-visualization-tools](https://github.com/sLaera/3D-scanning-web-visualization-tools/blob/master/image.png?raw=1)](https://github.com/sLaera/3D-scanning-web-visualization-tools)<br>**[3D-scanning-web-visualization-tools](https://github.com/sLaera/3D-scanning-web-visualization-tools)**<br>Collection of tools for virtual 3D scanning, 3D reconstruction and visualization from LiDAR data, focusing on web-based applications.<br><sub>⁕ C &nbsp; ⁕ C# &nbsp; ⁕ Python &nbsp; ⁕ TypeScript</sub> | [![Intubation_simulation_VR](img_intubation_vr.png)](https://github.com/sLaera/Intubation_simulation_VR)<br>**[Intubation_simulation_VR](https://github.com/sLaera/Intubation_simulation_VR)**<br>VR simulation of the endotracheal medical operation. The main goal is to test how the use of a real prop could improve the training and the immersion. For this reason a single camera ML tracking system is used to track the main medical object<br><sub>⁕ C# </sub> |
+| [![object_tracking_module_VR](https://github.com/user-attachments/assets/f2a3d88c-438c-40a4-9a74-be889b081451)](https://github.com/sLaera/object_tracking_module_VR)<br>**[object_tracking_module_VR](https://github.com/sLaera/object_tracking_module_VR)**<br>Machine Learning module for real-time custom object tracking using ZebraPose neural network, designed to communicate with Unity<br><sub>⁕ Python | [![futuristic-restaurant-unity](https://github.com/user-attachments/assets/686619b3-9099-46ff-9000-24efa64a13c4)](https://github.com/sLaera/futuristic-restaurant-unity)<br>**[futuristic-restaurant-unity](https://github.com/sLaera/futuristic-restaurant-unity)**<br>Game experience of a futuristic restaurant. The experience focuses on the cooking mechanics and money management.<br><sub>⁕ C# </sub> |
+| [![learn-computer-science-gamification](https://github.com/sLaera/learn-computer-science-gamification/blob/master/photo_2025-10-15_17-39-55.jpg?raw=1)](https://github.com/sLaera/learn-computer-science-gamification)<br>**[learn-computer-science-gamification](https://github.com/sLaera/learn-computer-science-gamification)**<br>Educational AR platform prototype using gamification to teach computer science to young students. Developed following a user-centered design process <br><sub>⁕ C#</sub> | [![dino-game-RL-agent](https://github.com/sLaera/dino-game-RL-agent/blob/master/Demo.gif?raw=1)](https://github.com/sLaera/dino-game-RL-agent)<br>**[dino-game-RL-agent](https://github.com/sLaera/dino-game-RL-agent)**<br>Chrome Dino clone with a Reinforcement Learning agent trained in Unity ML-Agents.<br><sub>⁕ C# |
+| [![onnx-rust-runtime-environment](https://github.com/sLaera/onnx-rust-runtime-environment/blob/main/image.png?raw=1)](https://github.com/sLaera/onnx-rust-runtime-environment)<br>**[onnx-rust-runtime-environment](https://github.com/sLaera/onnx-rust-runtime-environment)**<br>Rust-based runtime for executing ONNX neural networks with parallel node execution and parallelized operations. It feature also bindings for python and JavaScript and a web frontend <br><sub>⁕ Rust</sub> | [![blender-motion-capture](https://github.com/sLaera/blender-motion-capture/blob/master/demo.gif?raw=1)](https://github.com/sLaera/blender-motion-capture)<br>**[blender-motion-capture](https://github.com/sLaera/blender-motion-capture)**<br>Real-time motion capture system in Blender using computer vision and ML. The final goal is the replacement of the subject in the video stream with a digital avatar<br><sub>⁕ Python &nbsp; ⁕ Blender|
+| [![cat-lab-blender-project](https://github.com/sLaera/cat-lab-blender-project/blob/master/scena-1.jpg?raw=1)](https://github.com/sLaera/cat-lab-blender-project)<br>**[cat-lab-blender-project](https://github.com/sLaera/cat-lab-blender-project)**<br>University project focused on 3D modeling in Blender. The project consist in a blender scene created using the most common modeling and physics tools<br><sub>⁕ Blender</sub> | [![computer-animation-project](https://github.com/sLaera/computer-animation-project/blob/master/image-2.png?raw=1)](https://github.com/sLaera/computer-animation-project)<br>**[computer-animation-project](https://github.com/sLaera/computer-animation-project)**<br>Course project on computer animation at Politecnico di Torino. The goal is to recreate in blender an animated video<br><sub>⁕ Blender |
+| [![tamagotchi-lantiger](https://github.com/sLaera/tamagotchi-lantiger/blob/master/image-1.png?raw=1)](https://github.com/sLaera/tamagotchi-lantiger)<br>**[tamagotchi-lantiger](https://github.com/sLaera/tamagotchi-lantiger)**<br>Tamagotchi-style demo built on LANDTIGER LPC1768 board using Keil IDE.<br><sub>⁕ C</sub> | [![lab-adventure-openGL-game](https://github.com/sLaera/lab-adventure-openGL-game/blob/master/%7BD1BD0ECF-9AA5-49A2-8F2B-C2E1A8C88BA0%7D.png?raw=1)](https://github.com/sLaera/lab-adventure-openGL-game)<br>**[lab-adventure-openGL-game](https://github.com/sLaera/lab-adventure-openGL-game)**<br>3D endless runner game in C++ using OpenGL and a custom bare-bone game framework.<br><sub>⁕ C++ |
+
+## 📫 Contact
+
+- **GitHub:** [@sLaera](https://github.com/sLaera)  
+- **LinkedIn:** [linkedin.com/in/sante-laera-873486198](#)  
+- **Email:** laera.sante@gmail.com
