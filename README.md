@@ -17,5 +17,5 @@ Below you can find a selection of my **university** and **personal projects**, s
 ## 📫 Contact
 
 - **GitHub:** [@sLaera](https://github.com/sLaera)  
-- **LinkedIn:** [linkedin.com/in/sante-laera-873486198](#)  
+- **LinkedIn:** [www.linkedin.com/in/sante-laera](#)  
 - **Email:** laera.sante@gmail.com
